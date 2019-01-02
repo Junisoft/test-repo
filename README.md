@@ -1,2 +1,2 @@
 # test-repo
-mi primer git
+test git
